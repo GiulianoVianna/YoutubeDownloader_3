@@ -118,8 +118,7 @@ if __name__ == "__main__":
 
     window = DownloaderWindow()
     window.setWindowTitle("YouTube Video Downloader - MP3 / MP4")
-    window.setSizeIncrement(200,100)
-    window.setMaximumSize(200,100)
+    window.setFixedSize(400,200)
     window.show()
 
     sys.exit(app.exec_())
