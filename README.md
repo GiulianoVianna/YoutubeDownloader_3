@@ -3,7 +3,7 @@
 
 ## Informações
 
-Esta aplicação é um downloader de vídeos do YouTube com uma interface gráfica de usuário (GUI) construída usando PyQt5. O usuário pode inserir a URL de um vídeo do YouTube, escolher o formato de saída desejado (MP3 para áudio ou MP4 para vídeo) e baixar o arquivo. A aplicação exibe o status do download em tempo real, mostrando a porcentagem, o tamanho total do arquivo e a velocidade de download.
+Downloader de vídeos do YouTube com uma interface gráfica de usuário (GUI) construída usando PyQt5. O usuário pode inserir a URL de um vídeo do YouTube, escolher o formato de saída desejado (MP3 para áudio ou MP4 para vídeo) e baixar o arquivo. A aplicação exibe o status do download em tempo real, mostrando a porcentagem, o tamanho total do arquivo e a velocidade de download.
 
 O programa é dividido em duas classes principais:
 
